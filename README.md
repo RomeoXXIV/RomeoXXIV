@@ -1,5 +1,7 @@
 <h1 align="center">Hello 🌍, I'm Ibraimovski Romeo</h1>
-<h3 align="center">Master's student in computer science | Computer teacher for a children's programming school</h3>
+<h3 align="center">Master's student in computer science</h3>
+<h3 align="center">Computer teacher for a children's programming school</h3>
+
 
 ![Banner Image](profile_banner-480.png)
 
@@ -16,10 +18,14 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 
 ## My Skills 🧠
-
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](☕️)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript (not yet)](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 *Replace the above skill badges with your own skills and expertise. TTo create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
