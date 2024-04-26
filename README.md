@@ -1,6 +1,6 @@
 # Hi there, I'm [Your Name]! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](profile_banner-480.png)
 
 ## About Me 🚀
 
