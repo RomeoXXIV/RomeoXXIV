@@ -2,12 +2,9 @@
 <h3 align="center">Master's student in computer science</h3>
 <h3 align="center">Computer teacher for a children's programming school</h3>
 
-
-![Banner Image](profile_banner-480.png)
-
 ## About Me 🚀
-
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+Currently a first-year Master's student in Computer Science at the University of Mons, I'm looking for an internship lasting a minimum of 10 weeks, starting in September 2024. 
+I'm particularly interested in computer security, artificial intelligence and software development.
 
 - 🔭 Currently working on **my master project about acyclic deterministic automaton minimization**
 - 🌱 Currently learning **the basics of machine learning and cybersecurity.**
