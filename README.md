@@ -1,4 +1,6 @@
-<h1 align="center">Hello 🌍, I'm Ibraimovski Romeo</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=romeoxxiv&label=Profile%20views&color=0e75b6&style=flat" alt="romeoxxiv" /> </p>
+
+<h1 align="center">Hello 🌍, I'm Romeo</h1>
 <h3 align="center">Master's student in computer science</h3>
 <h3 align="center">Computer teacher for a children's programming school</h3>
 
@@ -6,10 +8,10 @@
 Currently a first-year Master's student in Computer Science at the University of Mons, I'm looking for an internship lasting a minimum of 10 weeks, starting in September 2024. 
 I'm particularly interested in computer security, artificial intelligence and software development.
 
-- 🔭 Currently working on **my master project about acyclic deterministic automaton minimization**
+- 🔭 Currently working on **my master project about acyclic deterministic automaton minimization.**
 - 🌱 Currently learning **the basics of machine learning and cybersecurity.**
-- 👨‍💻 All of my public projects are available at [https://github.com/RomeoXXIV](https://github.com/RomeoXXIV)
-- 💬 Speak to me in French or English and who knows, maybe one day in Japanese.
+- 👨‍💻 All of my public projects are available at [**https://github.com/RomeoXXIV**](https://github.com/RomeoXXIV)
+- 💬 Speak to me in **French** or **English** and who knows, **maybe one day in Japanese**.
 - 📫 How to reach me **romeo.ibraimovski@gmail.com**
 - ⚡ Fun fact **I occasionally play live video games on Twitch and I master the running gag.**
 
@@ -51,7 +53,6 @@ I'm particularly interested in computer security, artificial intelligence and so
 <a href="https://twitter.com/romeoxxiv" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/1024px-X_logo_2023.svg.png" alt="romeoxxiv" height="28" /></a>
 <a href="https://www.twitch.tv/romeoxxiv" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/80/Twitch_Glitch_Logo_Black.svg" alt="romeoxxiv" height="30" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romeoxxiv&label=Profile%20views&color=0e75b6&style=flat" alt="romeoxxiv" /> </p>
 
 
 <!--
